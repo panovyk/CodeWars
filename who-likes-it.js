@@ -1,3 +1,5 @@
+//6kyu Who likes it?
+
 function likes(names) {
     let others  = names.length - 2
 
